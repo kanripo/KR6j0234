@@ -1,24 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:27.431823
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:38
 #+TITLE: 千轉大明陀羅尼經
 #+PROPERTY: CBETA_ID T20n1036
 #+PROPERTY: ID KR6j0234
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1036
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0234_T_000-0018b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0234_T_001-0018b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1036[cf.Nos.1034,1035,¶
-901(Fasc.5)]¶
-
- 千轉大明陀羅尼經¶
+No. 1036 [cf. Nos. 1034, 1035,¶
+ 901(Fasc. 5)]¶
+千轉大明陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試鴻臚少卿¶
-傳法大師臣施護奉　詔譯¶
+西天譯經三藏朝散大夫試鴻臚少卿傳法大師臣＝教大師【明】法大師臣法大師臣施護奉　詔譯¶
 
 如是我聞。一時世尊在忉利天中波利質多¶
 羅樹下。爾時帝釋天主。及與一切天人軍眾。¶
