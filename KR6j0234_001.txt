@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:27.431823
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:38
 #+TITLE: 千轉大明陀羅尼經
 #+PROPERTY: CBETA_ID T20n1036
 #+PROPERTY: ID KR6j0234
